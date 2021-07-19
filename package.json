@@ -1,0 +1,35 @@
+{
+    "name": "hbnext-encrypt-decrypt",
+    "version": "1.0.0",
+    "description": "JavaScript library of encrypt decrypt",
+    "main": "index.js",
+    "author": {
+        "name": "haikel brinis",
+        "url": "https://github.com/haykalBR"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/haykalBR/encrypt-decrypt.git"
+    },
+    "bugs": {
+        "url": "https://github.com/haykalBR/encrypt-decrypt/issues"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [
+        "encrypt",
+        "decrypt",
+        "MD5",
+        "Base64",
+        "security"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "md5-typescript": "^1.0.5"
+    },
+    "devDependencies": {
+        "chai": "^4.3.4",
+        "mocha": "^9.0.2"
+    }
+}
