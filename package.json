@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/haykalBR/encrypt-decrypt.git"
+        "url": "https://github.com/haykalBR/js-hbNext-encrypt-decrypt"
     },
     "bugs": {
-        "url": "https://github.com/haykalBR/encrypt-decrypt/issues"
+        "url": "https://github.com/haykalBR/js-hbNext-encrypt-decrypt/issues"
     },
     "scripts": {
         "test": "mocha"
